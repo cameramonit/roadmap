@@ -16,6 +16,36 @@ Questions:
 4. how interaction will work
 5. what the benfit will be
 
+## Competitors:
+Amazon's Ring and Google's Nest are two of the biggest names in the market, Ring alone has more than half a dozen different models to choose from, our favorites being the $169.99 Video Doorbell Pro, the $199.99 Video Doorbell 3 Plus, and the $129.99 Peephole Cam.
+If you already use other Google or Nest smart home devices like a Nest Hub smart display, a Nest Mini smart speaker, or a Chromecast, go with the Hello video doorbell if you can afford it.  
+The Hello earned high marks in our tests for its ability to identify people using face recognition technology, its sharp HD video, its sleek design, and its interoperability with other smart home devices. Pair it with a Nest Mini and Chromecast, for instance, and you can ask your smart speaker to cast video from the doorbell to your TV. You can also stream video from the doorbell to a screen-equipped Amazon Alexa device like the Echo Show, as well as Fire tablets and Fire TV devices, but the Hello doesn't play nice with Alexa devices without a display. 
+
+## Solutions  
++ Video transcription allows you transcribe or translate your video's audio into text using artificial intelligence automatic speech recognition technology.
++ Camera to text functionality (also known as Optical Character Recognition, or OCR) saves you time in the field: simply snap a photo of that model plate or serial number, and let the camera do the work of transcribing it into your form. This functionality also improves accuracy, as it simply requires a photo rather than manually keying in a mixture of letters and numbers that can easily be misread or are difficult to type.
++ The camera-to-text function can be used to fill any text-based entry, and (iOS only) filter long dropdown lists based on a model number.
++ With face detection, you can get the information you need to perform tasks like embellishing selfies and portraits, or generating avatars from a user's photo. Because ML Kit can perform face detection in real time, you can use it in applications like video chat or games that respond to the player's expressions.
++ Object detection and tracking
+
+[Wykrywanie i śledzenie obiektów  |  ML Kit  |  Google for Developers](https://developers.google.com/ml-kit/vision/object-detection?hl=pl)
+
+Dzięki dostępnym na urządzeniu interfejsowi API do wykrywania i śledzenia obiektów w ML Kit możesz wykrywać i śledzić obiekty na obrazie lub w transmisji na żywo z kamery.
+
+Opcjonalnie możesz klasyfikować wykryte obiekty, korzystając z wbudowanego w interfejs API przybliżonego klasyfikatora lub z własnego niestandardowego modelu klasyfikacji obrazów. Więcej informacji znajdziesz w artykule [Używanie niestandardowego modelu TensorFlow Lite](https://developers.google.com/ml-kit/vision/object-detection?hl=pl#custom-tflite).
+ 
+Wykrywanie i śledzenie obiektów odbywa się na urządzeniu, dlatego działa również w interfejsie potoku wyszukiwania wizualnego. Po wykryciu i odfiltrowaniu obiektów możesz przekazać je do backendu w chmurze, na przykład do [wyszukiwarki produktów Cloud Vision](https://cloud.google.com/vision/product-search/docs/?hl=pl).
+
+
+## Najważniejsze funkcje
+
++ Szybkie wykrywanie i śledzenie obiektów Wykrywaj obiekty i określaj ich lokalizację na obrazie. Śledzenie obiektów w kolejnych klatkach obrazu.
++ Zoptymalizowany model na urządzeniu Model wykrywania i śledzenia obiektów jest zoptymalizowany pod kątem urządzeń mobilnych i może być używany w aplikacjach w czasie rzeczywistym, nawet na słabszych urządzeniach.
++ Wykrywanie widocznych obiektów Automatyczne określenie najbardziej widocznego obiektu na zdjęciu.
++ Klasyfikacja przybliżona Klasyfikuj obiekty w szerokich kategoriach, dzięki którym można odfiltrowywać obiekty, które Cię nie interesują. Obsługujemy te kategorie: artykuły gospodarstwa domowego, odzież, żywność, rośliny i miejsca.
++ Klasyfikacja z użyciem modelu niestandardowego Użyj własnego modelu klasyfikacji obrazów do identyfikowania i filtrowania konkretnych kategorii obiektów. Aby Twój model niestandardowy działał lepiej, pomijaj tło obrazu.
+
+
 
 MVP będzie polegało na zrobieniu interfejsu tekstowego z powiadamianiem o tym co dzieje się na video, gdzie tak jak chatgpt będziesz pisał co chesz zobaczyć
 
