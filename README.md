@@ -18,6 +18,16 @@ Questions:
 4. how interaction will work
 5. what the benfit will be
 
+
+- Create social media profiles for the idea
+- post everyday, reach out to people, ask for feedback
+- Create a WordPress, Wix or any other nice landing page that collects email addresses. (this is very easy these days)
+- Learn about all the marketing platforms
+- Setup some kind of payment and a preselling campaign
+- Start looking for people that might be interested in your product and call them, ask them about your product, try to make a sale (you can give money back if you do not want to build it)
+- Find a cofounder who is a marketer, good with social media and google ads
+
+  
 ## Competitors:
 Amazon's Ring and Google's Nest are two of the biggest names in the market, Ring alone has more than half a dozen different models to choose from, our favorites being the $169.99 Video Doorbell Pro, the $199.99 Video Doorbell 3 Plus, and the $129.99 Peephole Cam.
 If you already use other Google or Nest smart home devices like a Nest Hub smart display, a Nest Mini smart speaker, or a Chromecast, go with the Hello video doorbell if you can afford it.  
