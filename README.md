@@ -19,6 +19,9 @@ Questions:
 5. what the benfit will be
 
 
+
+# EN
+
 - Create social media profiles for the idea
 - post everyday, reach out to people, ask for feedback
 - Create a WordPress, Wix or any other nice landing page that collects email addresses. (this is very easy these days)
@@ -27,7 +30,43 @@ Questions:
 - Start looking for people that might be interested in your product and call them, ask them about your product, try to make a sale (you can give money back if you do not want to build it)
 - Find a cofounder who is a marketer, good with social media and google ads
 
+1. The product must have its own dedicated team, even if it consists of 1 or 2 people. These people must believe in the product and have the freedom to develop it to make it the best for users.
+
+2. The product should be clearly defined for whom it is - ICP - just as a developer wonders whether he is building for families or singles coming to a big city? Completely different needs.
+
+3. The product is not a conglomeration of all the functions that come to mind - or we have from other projects. This is not about technical debt (which is fine up to a certain point because it shows the pace and understanding of customers). The point here is not to build a product specifically for anyone...
+
+4. Product = striving for quality. Services = striving to invoice the project and move on to the next one. It doesn't connect. That's why product teams that are not clearly separated from service teams do not achieve success - they cannot be achieved in conditions of constant schizophrenia ;)
+
+5. Committee decision making. I remember that at Divante we were building a B2B product for Magento. I wanted everyone to be involved - ownership, I read, is important. But making decisions by 15 people in a conference room, this ownership takes away, not gives :) A strong lesson. In the end, I myself - the originator of this product - did not want to come to the meetings :)
+
+
+   
+# PL
+
+- Utwórz profile w mediach społecznościowych dla swojego pomysłu
+- publikuj posty codziennie, docieraj do ludzi, proś o opinię
+- Utwórz WordPress, Wix lub inną ładną stronę docelową, która zbiera adresy e-mail. (w dzisiejszych czasach jest to bardzo łatwe)
+- Dowiedz się o wszystkich platformach marketingowych
+- Skonfiguruj rodzaj płatności i kampanię przedsprzedażową
+- Zacznij szukać osób, które mogą być zainteresowane Twoim produktem i zadzwoń do nich, zapytaj o Twój produkt, spróbuj dokonać sprzedaży (możesz oddać pieniądze, jeśli nie chcesz ich budować)
+- Znajdź współzałożyciela, który jest marketerem, dobrze radzącym sobie z mediami społecznościowymi i reklamami Google
   
+Co odróżnia te które się udały od tych które powolnie umarły śmiercią naturalną? Kilka rzeczy przychodzi mi do głowy na szybko:
+
+1. Produkt musi mieć swój dedykowany zespół, nawet jeśli 1 lub 2 osobowy. Te osoby muszą wierzyć w ten produkt i mieć swobodę rozwijać go, żeby był najlepszy dla użytkowników.
+
+2. Produkt powinien mieć jasno zdefiniowane dla kogo jest - ICP - tak jak developer zastanawia się czy buduje dla rodzin czy singli przyjeżdżających do dużego miasta? Zupełnie inne potrzeby.
+
+3. Produkt nie jest zlepkiem wszystkich funkcji jakie przychodzą nam do głowy - albo mamy z innych projektów. Tutaj nie chodzi o dług technologiczny (który do pewnego momentu jest spoko bo świadczy o tempie i zrozumieniu klientów). Tutaj chodzi o to, żeby nie wybudować produktu dokładnie dla nikogo...
+
+4. Produkt = dążenie do jakości. Usługi = dążenie do zafakturowania projektu i przeskoczenia do kolejnego. To się nie łączy. Dlatego zespoły produktowe które nie są odłączone wyraźnie od zespołów Usługowych nie osiągają sukcesów - nie da się ich osiągnąć w warunkach ciągłej schizofrenii ;)
+
+5. Podejmowanie decyzji przez komitet. Pamiętam, że w Divante budowaliśmy produkt B2B dla Magento. Chciałem, żeby każdy był zaangażowany - ownership wyczytałem jest ważny. Ale podejmowanie decyzji przez 15 osób w salce konferencyjnej ten ownership zabiera a nie daje :) Mocna nauczka. Na końcu ja sam - pomysłodawca tego produktu - nie chciałem przychodzić na spotkania :)
+
+
+
+   
 ## Competitors:
 Amazon's Ring and Google's Nest are two of the biggest names in the market, Ring alone has more than half a dozen different models to choose from, our favorites being the $169.99 Video Doorbell Pro, the $199.99 Video Doorbell 3 Plus, and the $129.99 Peephole Cam.
 If you already use other Google or Nest smart home devices like a Nest Hub smart display, a Nest Mini smart speaker, or a Chromecast, go with the Hello video doorbell if you can afford it.  
